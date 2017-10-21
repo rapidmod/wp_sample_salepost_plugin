@@ -35,7 +35,6 @@ function init_rapidmod_salepost() {
 			"show_ui" => true,
 			'menu_position' => 15,
 			'supports' => array( 'title', 'editor', 'comments', 'thumbnail', 'custom-fields' ),
-			'menu_icon' => plugins_url( 'public/cart.png', __FILE__ ),
 			'has_archive' => true
 		)
 	);
